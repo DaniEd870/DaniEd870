@@ -1,6 +1,6 @@
 [README (2).md](https://github.com/DaniEd870/DaniEd870/files/15254200/README.2.md)[README (1).md](https://github.com/DaniEd870/DaniEd870/files/15253631/README.1.md)- 👋 Hi, I’m @DaniEd870
 - 👀<h1 align="center">Hi 👋, I'm Daniella Edem Amenyo-Sedo</h1>
-<h3 align="center">A Cloud/DevOps Engineer and Enthusiast from Ghana, West Africa</h3>
+<h3 align="center">A Cloud/DevOps Enthusiast from Ghana, West Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danied870&label=Profile%20views&color=0e75b6&style=flat" alt="danied870" /> </p>
 
@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danied870&label=Profile%20views&color=0e75b6&style=flat" alt="danied870" /> </p>
 
-- 👯 I’m looking to collaborate on... **AWS, Azure and GCP**
+- 👯 I’m looking to collaborate on... **AWS Cloud and DevOps**
 
 - ⚡ Fun fact... **I love to be around nature, taking walks,being at the beach and having a great time.**
   
