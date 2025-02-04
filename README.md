@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danied870&label=Profile%20views&color=0e75b6&style=flat" alt="danied870" /> </p>
 
-- 🌱 I’m currently learning... **Cloud Engineering**
+- 🌱 I’m currently learning... **Cloud and DevOps Engineering**
 
 - 📝 I regularly write articles on... [https://hashnode.com/](https://hashnode.com/)
 
-- 💬 Ask me about... **AWS, DevOps, Ansible, Linux, CI/CD, Jenkins, Maven, Tomcat etc**
+- 💬 Ask me about... **Linux, AWS, CI/CD, Docker, Jenkins, Kubernetes, Terraform, Maven, Tomcat etc**
 
 - 📫 How to reach me... **daniellaedem1@gmail.com**
 
